@@ -1,0 +1,11 @@
+Edit Distance   Number of Word Pairs         Longest Word Pair
+-----------------------------------------------------------------------------------
+1               3231                      histocompatability, histocompatibility
+2               1144                      anthromorphization, anthropomorphization
+3               93                        differentiatiations, differentiations
+4               24                        beaurocratic, bureaucratic
+5               4                         transcendentational, transcendental
+6               4                         Premonasterians, Premonstratensians
+8               1                         mohammedans, muslims
+7               1                         muhammadan, muslim  
+11              1                         unconfortability, discomfort

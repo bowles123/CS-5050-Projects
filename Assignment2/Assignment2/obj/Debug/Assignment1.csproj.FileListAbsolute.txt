@@ -1,0 +1,12 @@
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

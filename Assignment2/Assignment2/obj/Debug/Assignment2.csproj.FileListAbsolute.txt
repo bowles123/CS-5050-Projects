@@ -1,0 +1,3 @@
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 2\Assignment2\bin\Debug\Assignment1.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 2\Assignment2\obj\Debug\Assignment1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 2\Assignment2\obj\Debug\Assignment1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\bin\Debug\PolynomialMultiplication.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\bin\Debug\PolynomialMultiplication.exe
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\bin\Debug\PolynomialMultiplication.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\obj\Debug\PolynomialMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\obj\Debug\PolynomialMultiplication.exe
+C:\Users\Brian\Documents\CS 5050 Homework\PolynomialMultiplication\obj\Debug\PolynomialMultiplication.pdb

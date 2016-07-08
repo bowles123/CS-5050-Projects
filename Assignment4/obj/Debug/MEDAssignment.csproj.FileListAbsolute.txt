@@ -1,0 +1,11 @@
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\bin\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\obj\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment4\obj\Debug\MEDAssignment.csprojResolveAssemblyReference.cache

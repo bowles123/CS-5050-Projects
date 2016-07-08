@@ -1,0 +1,120 @@
+Prototypical Human vs. Self: 82825
+Neanderthal vs Self: 82840
+Prototypical Human vs. Neanderthal: 81380
+
+Chinese vs. Self: 82845
+Chinese vs. Ethopian: 82554
+Chinese vs. French: 82659
+Chinese vs. Ingman Australian: 82614
+Chinese vs. Italian: 82643
+Chinese vs. Japanese: 82512
+Chinese vs. Mishmar Caucasian: 82556
+Chinese vs. Native American: 82555
+Chinese vs. Navajo: 82556
+Chinese vs. Spanish: 82610
+
+Ethopian vs. Self: 82850
+Ethopian vs. Chinese: 82554
+Ethopian vs. French: 82659
+Ethopian vs. Ingman Australian: 82693
+Ethopian vs. Italian: 82667
+Ethopian vs. Japanese: 82605
+Ethopian vs. Mishmar Caucasian: 82622
+Ethopian vs. Native American: 82648
+Ethopian vs. Navajo: 82628
+Ethopian vs. Spanish: 82619
+
+French vs. Self: 82840
+French vs. Chinese: 82659
+French vs. Ethopian: 82659
+French vs. Ingman Australian: 82693
+French vs. Italian: 82636
+French vs. Japanese: 82598
+French vs. Mishmar Caucasian: 82577
+French vs. Native American: 82617
+French vs. Navajo: 82625
+French vs. Spanish: 82574
+
+Ingman Australian vs. Self: 82845
+Ingman Australian vs. Chinese: 82614
+Ingman Australian vs. Ethopian: 82693
+Ingman Australian vs. French: 82693
+Ingman Australian vs. Italian: 82636
+Ingman Australian vs. Japanese: 82520
+Ingman Australian vs. Mishmar Caucasian: 82564
+Ingman Australian vs. Native American: 82563
+Ingman Australian vs. Navajo: 82557
+Ingman Australian vs. Spanish: 82590
+
+Italian vs. Self: 82840
+Italian vs. Chinese: 82643
+Italian vs. Ethopian: 82667
+Italian vs. French: 82636
+Italian vs. Ingman Australian: 82636
+Italian vs. Japanese: 82520
+Italian vs. Mishmar Caucasian: 82475
+Italian vs. Native American: 82723
+Italian vs. Navajo: 82509
+Italian vs. Spanish: 82486
+
+Japanese vs. Self: 82840
+Japanese vs. Chinese: 82512
+Japanese vs. Ethopian: 82605
+Japanese vs. French: 82598
+Japanese vs. Ingman Australian: 82520
+Japanese vs. Italian: 82520
+Japanese vs. Mishmar Caucasian: 82475
+Japanese vs. Native American: 82518
+Japanese vs. Navajo: 82526
+Japanese vs. Spanish: 82517
+
+Mishmar Caucasian vs. Self: 82850
+Mishmar Caucasian vs. Chinese: 82556
+Mishmar Caucasian vs. Ethopian: 82622
+Mishmar Caucasian vs. French: 82577
+Mishmar Caucasian vs. Ingman Australian: 82564
+Mishmar Caucasian vs. Italian: 82475
+Mishmar Caucasian vs. Japanese: 82475
+Mishmar Caucasian vs. Native American: 82518
+Mishmar Caucasian vs. Navajo: 82552
+Mishmar Caucasian vs. Spanish: 82529
+
+Native American vs. Self: 82850
+Native American vs. Chinese: 82555
+Native American vs. Ethopian: 82648
+Native American vs. French: 82617
+Native American vs. Ingman Australian: 82563
+Native American vs. Italian: 82723
+Native American vs. Japanese: 82518
+Native American vs. Mishmar Caucasian: 82518
+Native American vs. Navajo: 82552
+Native American vs. Spanish: 82535
+
+Navajo vs. Self: 82850
+Navajo vs. Chinese: 82556
+Navajo vs. Ethopian: 82628
+Navajo vs. French: 82625
+Navajo vs. Ingman Australian: 82557
+Navajo vs. Italian: 82509
+Navajo vs. Japanese: 82526
+Navajo vs. Mishmar Caucasian: 82552
+Navajo vs. Native American: 82552
+Navajo vs. Spanish: 82535
+
+Spanish vs. Self: 82850
+Spanish vs. Chinese: 82610
+Spanish vs. Ethopian: 82619
+Spanish vs. French: 82574
+Spanish vs. Ingman Australian: 82590
+Spanish vs. Italian: 82486
+Spanish vs. Japanese: 82517
+Spanish vs. Mishmar Caucasian: 82529
+Spanish vs. Native American: 82535
+Spanish vs. Navajo:  82535
+
+Prototypical Human vs. baboon: 56900
+Prototypical Human vs. bonobo: 67851
+Prototypical Human vs. chimpanzee(8): 67720
+Prototypical Human vs. chimpanzee(9): 67754
+Prototypical Human vs. gorilla: 66156
+Prototypical Human vs. western lowland gorilla: 66122

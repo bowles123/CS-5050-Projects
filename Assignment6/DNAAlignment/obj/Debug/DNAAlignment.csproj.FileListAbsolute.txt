@@ -1,0 +1,18 @@
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\bin\Debug\DNAAlignment.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\bin\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\bin\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\obj\Debug\DNAAlignment.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\obj\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 3\DNAAlignment\obj\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\bin\Debug\DNAAlignment.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\bin\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\bin\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\obj\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\obj\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment 5\DNAAlignment\obj\Debug\DNAAlignment.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\bin\Debug\DNAAlignment.exe.config
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\bin\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\bin\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\obj\Debug\DNAAlignment.exe
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\obj\Debug\DNAAlignment.pdb
+C:\Users\Brian\Documents\CS 5050 Homework\Assignment6\DNAAlignment\obj\Debug\DNAAlignment.csprojResolveAssemblyReference.cache

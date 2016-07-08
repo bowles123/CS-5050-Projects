@@ -1,0 +1,6 @@
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\bin\Debug\Assignment8.exe.config
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\bin\Debug\Assignment8.exe
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\bin\Debug\Assignment8.pdb
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\obj\Debug\Assignment8.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\obj\Debug\Assignment8.exe
+C:\Users\Brian\Documents\CS_5050_Homework\Assignment8\obj\Debug\Assignment8.pdb
