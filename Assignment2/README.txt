@@ -1,1 +1,0 @@
-Because the program output success for both tests that means neither ran into a bug, therefore it works as expected.
