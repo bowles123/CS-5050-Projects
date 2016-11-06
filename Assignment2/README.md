@@ -1,2 +1,6 @@
-#Memoization & Dynamic Programming
-Uses dynamic programming and memoization to solve a simply game problem of whether there is a forced win at the position or not
+#NIM
+Uses three different algorithms to solve the NIM problem for a particular state, whether there is a forced win or not
+Algorithms used:
+- Naive Recursive Algorithm
+- Memoized Algorithm with Cache
+- Dynamic Programming Algorithm with Cache
